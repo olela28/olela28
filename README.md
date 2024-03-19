@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @olela28
 - 👀 I’m interested in becoming a data analyst
-- 🌱 I’m currently learning the C programming language
-- 💞️ I’m looking to collaborate on tech projects...
+- 🌱 I’m currently learning computer programming
+- 💞️ I’m looking to collaborate on tech projects
+- 👀 I'm working on different projects on kaggle to gain experience
 - 
 
 <!---
