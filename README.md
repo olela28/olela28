@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @olela28
+- 👋 Hi, I’m Linda
 - 👀 I’m interested in becoming a data analyst
-- 🌱 I’m currently learning computer programming
+- 🌱 I’m currently learning computer programming and data analysis
 - 💞️ I’m looking to collaborate on tech projects
 - 👀 I'm working on different projects on kaggle to gain experience
 - 
